@@ -1,0 +1,215 @@
+<html>
+
+<head>
+<meta charset="utf-8">
+<title>CSS and HTML</title>
+
+<style type="text/css">
+body {
+
+    background-image: url("C:/CODE/images/large.jpg");
+		height: 100%;
+	width: 100%;
+}
+#topright { 
+	position: fixed;
+	top: 0%;
+	left: 100%;
+	z-index: -1;
+	transform: translate(-100%, 0%);
+}
+#absmiddle { 
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	z-index: -1;
+	transform: translate(-50%, -50%);
+}
+#bottomleft { 
+	position: fixed;
+	top: 100%;
+	left: 0%;
+	z-index: -1;
+	transform: translate(0%, -100%);
+}
+h1 {
+	font-size: 40px;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 5%;
+	color: rgba(250, 157, 30, 0.9);
+	text-shadow:5px 5px 5px #d9f2ef;
+    border-radius: 10px;
+     
+    border:groove 6px #0f77bd;
+-moz-border-radius-topleft: 25px;
+-moz-border-radius-topright:28px;
+-moz-border-radius-bottomleft:20px;
+-moz-border-radius-bottomright:22px;
+-webkit-border-top-left-radius:25px;
+-webkit-border-top-right-radius:28px;
+-webkit-border-bottom-left-radius:20px;
+-webkit-border-bottom-right-radius:22px;
+border-top-left-radius:25px;
+border-top-right-radius:28px;
+border-bottom-left-radius:20px;
+border-bottom-right-radius:22px;
+    margin-top: 10%;
+    width: 900px;
+    padding: 10px;
+    
+    background-color: rgba(0, 0, 0, 0.8);
+    color:#FFFF5C;
+    outline-color: #FFFF5C;
+}
+h2{
+        text-align: center;
+        font-size: 25px;
+        font-weight: bold;
+        text-shadow:5px 5px 5px #d9f2ef;
+}
+div {
+	border:groove 6px #0f77bd;
+-moz-border-radius-topleft: 25px;
+-moz-border-radius-topright:28px;
+-moz-border-radius-bottomleft:20px;
+-moz-border-radius-bottomright:22px;
+-webkit-border-top-left-radius:25px;
+-webkit-border-top-right-radius:28px;
+-webkit-border-bottom-left-radius:20px;
+-webkit-border-bottom-right-radius:22px;
+border-top-left-radius:25px;
+border-top-right-radius:28px;
+border-bottom-left-radius:20px;
+border-bottom-right-radius:22px;
+    margin-top: 10%;
+    width: 900px;
+    padding: 10px;
+    
+    background-color: rgba(0, 0, 0, 0.8);
+    color:#FFFF5C;
+    outline-color: #FFFF5C;
+    
+}
+
+	
+.background:
+	color: #333;
+		padding: 2px 6px 2px 6px;
+		border-top: 5px solid #ccc;
+		border-right: 1px solid #333;
+		border-bottom: 1px solid #333;
+		border-left: 1px solid #ccc;
+		text-align: justified;
+
+.Currently
+color: #333;
+	padding: 2px 6px 2px 6px;
+	border-top: 5px solid #fff;
+	border-right: 1px solid #333;
+	border-bottom: 1px solid #333;
+	border-left: 1px solid #ccc;
+	text-align: justified;
+	
+.What The Future Holds
+	color: #333;
+	padding: 2px 6px 2px 6px;
+	border-top: 1px solid #ccc;
+	border-right: 1px solid #333;
+	border-bottom: 1px solid #333;
+	border-left: 1px solid #ccc;
+}
+
+}
+{footer
+
+  .carousel
+  	position: inline, block;
+}
+
+  	
+
+
+
+</style>
+</head>
+
+<body>
+<!--	<td><a href="Background" class="Background">Background</a></td>
+	<td><a href="Currently" class="Currently">Currently</a></td>
+	<td><a href="What The Future Holds In Store" class="What The Future Holds Instore">What the Future Holds In Store</a></td>
+	</tr></table>-->
+<h1>Erika Harvey</h1>
+<div
+<section>
+<article>
+
+<h2=class"Background">
+<h2>Background</h2>
+My name is Erika and thank you for letting me part of this experience. 
+I come from a family that is heavily entrenched in the tech world.
+I would be considered the black sheep since I veered off the farm and went into the arts and then nursing. My older brothers are nuclear engineers, mechanical engineers,and one entrepeneur in a tech field.
+While they have always been very analytical and linear in their approaches to problems, I opt for a more hollistic, big picture lets look at the forest before we take a look at the individual trees.I am the consumate entertainer and educator who has just recently discovered that I truly wasn't dropped off by the milk man and have the intellectual ability as well as the motivation and drive to make art through the use of just my mind and what I input into a computer. Awesome thought, isn't it?
+
+</article>
+</section>
+</div>
+
+
+
+
+<div>
+<section>
+	<article>
+<h2 =class:"Currently">
+<h2> Currently</h2>
+
+<p>  I have a teaching credential, am a licensed nurse to pay the bills and perform Burlesque as my version of Prozac and a shrinks couch. (They both cost about the same, sparkles aren't cheap and its way more fun than paying someone to pretend to listen.)  Another reason I'm here is Admiral Grace Hopper. I am ashamed to admit, but I have just started learning about her and am already a total fan girl! I was looking for inspirational women for my class that didn't involve celebrities and i came across Hopper as I was looking for more information on the woman that discovered DNA strands.(Yup! its true, but you can read more about that at my blog <link http://underpaidnurse.com>) Talk about chutzpah and class! It was amazing to learn that the origional programmers were women and were told that they shouldn't get to excited because nothing much was going to come of a giant calculator.  Ooopsies!<br />
+I have spent years working bedside and now I would like to take my experiences on the floor, as an educator and now a computer programmer and design software for nurses and nursing students that actually function like we need them to.  There are so many software programs and apps out there, but the number one complaint is that they aren't useful. Infact, many end up being a hindrance and become a patient safety issue.</span></p><br />
+</article>
+</section>
+</div>
+
+
+<div>
+	<article>
+	<section>
+	<h2=class"What The Future Holds In Store"></h2>
+	<h2>Future's So Bright, I Gotta Wear Shades</h2>
+	<p> Which brings me to my future. I envision after honing my craft working for a startup or established company launching "NurseKode: Software for Nurses, by Nurses"  I see it as having software that grabs a nurses interest right off the bat in nursing school with tutorials and interactive learning programs. Once firmly established as a goto source during school, they will flow into the real world apps like:
+		<ul>
+			<li>The Brain: Nursing shift sheet</li>
+			<li>SBAR:Communicating with Ancillary Staff and Doctors in a Unified Manner</li>
+			<li>Labs, Test Results and how they all work together: a way of inserting lab values, test results and other pertinent information into a database and having an outcome that shows what is actually going on, pathophysiology.</li>
+
+	</article>
+	</section>
+	<img id="absmiddle" src="images/cologo.jpg" width="400px" alt="me"/>
+	<img id="topright" src="images/Me.jpg" width="200px" alt="me"/>
+	<img id="bottomleft" src="images/absmid.jpg" width="240px" alt="me" />
+	</div>
+
+</body>
+<footer>
+	<link rel="stylesheet" type="text/css"href="jquery.dpas.carousel.css"/>
+<script src="//ajax.googleapis.com/ajax/lib/jquery/2.0.2/jquery.min.js"></script>
+<script src="javascripts/jquery.dpas.carousel.js"></script>
+<script>
+	$(document).ready(function() {
+			$('ul').dbpasCarousel({options});
+			});
+	</script>
+	<div id=carousel>
+	<ul>
+		<li><img src="http://images/hopper1.jpg"alt="hopperquote"/></li>
+		<li><img src="http://images/hopper2.jpg"alt="hopperquote"/></li>
+		<li><img src="http://images/hopper3.jpg"alt="hopperquote"/></li>
+		<li><img src="http://images/hopper4.jpg"alt="hopperquote"/></li>
+		<li><img src="http://images/me2.jpg"alt="meagain"/></li>
+	</ul>
+	</div>
+	</footer>
+
+
+
+</html>
